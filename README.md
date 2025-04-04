@@ -1,3 +1,6 @@
+NOTE: Plans to utilize a cross platform version of this library.  
+ - Linux
+
 # DualSense on Windows [API]
 ![](https://raw.githubusercontent.com/Ohjurot/DualSense-Windows/main/Doc/GitHub_readme/header.png)
 
